@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 7918658ed94df5248ae2d13e9dac1e02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6855151628099140879
+    second: spiderUpwalk_0
+  - first:
+      213: -5660748069608941920
+    second: spiderUpwalk_1
+  - first:
+      213: 2638554585154685294
+    second: spiderUpwalk_2
+  - first:
+      213: -862466517843381768
+    second: spiderUpwalk_3
+  - first:
+      213: -2332686739153886411
+    second: spiderUpwalk_4
+  - first:
+      213: 8301756099669183076
+    second: spiderUpwalk_5
+  - first:
+      213: 3823667754073896552
+    second: spiderUpwalk_6
+  - first:
+      213: -647008742125880769
+    second: spiderUpwalk_7
+  - first:
+      213: 5395763882210613962
+    second: spiderUpwalk_8
+  - first:
+      213: 3668196556627549317
+    second: spiderUpwalk_9
+  - first:
+      213: 1306636834821043541
+    second: spiderUpwalk_10
+  - first:
+      213: -4378688340241430060
+    second: spiderUpwalk_11
+  - first:
+      213: -2767685359057723233
+    second: spiderUpwalk_12
+  - first:
+      213: -317153612456877505
+    second: spiderUpwalk_13
+  - first:
+      213: 5623076607890090822
+    second: spiderUpwalk_14
+  - first:
+      213: -9217695291923055829
+    second: spiderUpwalk_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiderUpwalk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1941
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2c5b51aeb9dd0a0800000000000000
+      internalID: -6855151628099140879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1941
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a61bf36f9bf071b0800000000000000
+      internalID: -5660748069608941920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_2
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1941
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e698f906a670e9420800000000000000
+      internalID: 2638554585154685294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_3
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 1941
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1f6458547e704f0800000000000000
+      internalID: -862466517843381768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1294
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e77415c1a0afd0800000000000000
+      internalID: -2332686739153886411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1294
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac6b42033c53370800000000000000
+      internalID: 8301756099669183076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_6
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1294
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b0bc4095601530800000000000000
+      internalID: 3823667754073896552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_7
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 1294
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab30f1afc5507f0800000000000000
+      internalID: -647008742125880769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acadb03b9aa91ea40800000000000000
+      internalID: 5395763882210613962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 647
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c9814555d08e230800000000000000
+      internalID: 3668196556627549317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_10
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 647
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f2f5474b122210800000000000000
+      internalID: 1306636834821043541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_11
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 647
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c3c16726cb33c0800000000000000
+      internalID: -4378688340241430060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a05b64d43799d0800000000000000
+      internalID: -2767685359057723233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_13
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a646487e399bf0800000000000000
+      internalID: -317153612456877505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_14
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 0
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64be81ee16e290e40800000000000000
+      internalID: 5623076607890090822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderUpwalk_15
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 0
+        width: 811
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bb22d28fa241080800000000000000
+      internalID: -9217695291923055829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
